@@ -1,4 +1,7 @@
+
 # Health Lifestyle Data Analysis
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+(https://colab.research.google.com/drive/1dCTt2jrVDiSTV7UQsb7C2MdZ7CCRxtGw?usp=sharing)
 
 ## 📌 Overview
 This project analyzes health and lifestyle data to identify patterns affecting well-being and daily performance.
